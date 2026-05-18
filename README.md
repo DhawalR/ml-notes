@@ -1,6 +1,6 @@
-# Machine Learning Notes 📚
+# Machine Learning Notes
 
-Personal revision notes on Machine Learning concepts — written while solidifying my understanding after working on real projects during my B.E. at PRMIT&R.
+Personal revision notes on Machine Learning concepts.
 
 Each note covers the **intuition**, **math**, and **code** together. Not a tutorial series — more like thinking out loud on paper.
 
