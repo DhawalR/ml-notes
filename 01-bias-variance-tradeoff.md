@@ -164,4 +164,3 @@ If you split CT scan slices randomly (not patient-level), slices from the same p
 
 ---
 
-*Next: [Gradient Descent](../02-gradient-descent.md)*
