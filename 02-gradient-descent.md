@@ -327,5 +327,3 @@ They're not the same thing, but they're inseparable in practice. Backprop is jus
 This will be covered in depth in the neural networks chapter, but it's worth knowing they're two distinct ideas that work together.
 
 ---
-
-*Next: [Loss Functions — when to use which and why](03-loss-functions.md)*
