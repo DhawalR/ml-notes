@@ -70,13 +70,5 @@ Every note follows the same structure:
 
 ---
 
-## Progress
-
-| Topic | Status |
-|---|---|
-| Bias-Variance Tradeoff | ✅ Done |
-| Everything else | 🔄 In progress |
-
----
 
 *Started May 2026. Updated as I go.*
